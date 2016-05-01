@@ -1,4 +1,4 @@
-package com.hackersrank.interview.dynamicprogramming;
+package com.interview.hackersrank.dynamicprogramming;
 
 import java.util.Scanner;
 
@@ -39,7 +39,7 @@ public class Candies
 		{
 			if (ratings[i] > ratings[i + 1])
 			{
-				if (candiesGiven[i] < candiesGiven[i + 1])
+				if (candiesGiven[i] <= candiesGiven[i + 1])
 				{
 					candiesGiven[i] = candiesGiven[i + 1] + 1;
 				}

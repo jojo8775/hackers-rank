@@ -1,4 +1,4 @@
-package com.hackersrank.interview.dynamicprogramming;
+package com.interview.hackersrank.dynamicprogramming;
 
 import java.util.Scanner;
 

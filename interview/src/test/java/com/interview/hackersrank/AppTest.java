@@ -1,4 +1,4 @@
-package com.hackersrank.interview;
+package com.interview.hackersrank;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

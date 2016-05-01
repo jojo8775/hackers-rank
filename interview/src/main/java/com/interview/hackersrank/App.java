@@ -1,4 +1,4 @@
-package com.hackersrank.interview;
+package com.interview.hackersrank;
 
 /**
  * Hello world!
